@@ -7,7 +7,5 @@ const users = [
   "Elena Gilbert",
   "Bonnie Benet",
 ];
-
-const usersLength = users.length;
-
-console.log("Lenght", usersLength);
+console.log(`User 1: ${users[0]}, User 3: ${users[2]}, User 5: ${users[4]}`);
+console.log("Lenght", users.length);
